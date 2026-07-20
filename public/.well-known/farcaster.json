@@ -1,19 +1,18 @@
 {
   "accountAssociation": {
-    "header": "REPLACE_ME",
-    "payload": "REPLACE_ME",
-    "signature": "REPLACE_ME"
+    "header": "eyJmaWQiOjE2MTA0NzIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhFQzREODU4OWQ4RDFDNjY1NmFDZWQ1MzdmMjYzYjc2NDg4MUJDYmNkIn0",
+    "payload": "eyJkb21haW4iOiJkYWlseS1jcnlwdG8tYnJpZWZpbmcudmVyY2VsLmFwcCJ9",
+    "signature": "0QWiB5JhdABVzqUiAApMiRVlF9zxlvo5ABHnPjbvS9g0KAPTlz0PbIUvSWoi8N3NNm9045YR8ks1erl5RrF2eRw="
   },
-  "miniapp": {
+  "frame": {
     "version": "1",
-    "name": "Daily Crypto Briefing",
-    "homeUrl": "https://daily-crypto-briefing.vercel.app/",
-    "iconUrl": "https://daily-crypto-briefing.vercel.app/IMG_5030.png",
-    "imageUrl": "https://daily-crypto-briefing.vercel.app/IMG_5032.png",
-    "splashImageUrl": "https://daily-crypto-briefing.vercel.app/IMG_5031.png",
-    "splashBackgroundColor": "#0E1420",
-    "subtitle": "One crypto question a day",
-    "description": "A daily crypto discussion prompt. Answer, discuss, tip the briefing.",
-    "primaryCategory": "social"
+    "name": "Example Frame",
+    "iconUrl": "https://daily-crypto-briefing.vercel.app/icon.png",
+    "homeUrl": "https://daily-crypto-briefing.vercel.app",
+    "imageUrl": "https://daily-crypto-briefing.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://daily-crypto-briefing.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://daily-crypto-briefing.vercel.app/api/webhook"
   }
 }
