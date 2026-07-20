@@ -1,0 +1,19 @@
+{
+  "accountAssociation": {
+    "header": "REPLACE_ME",
+    "payload": "REPLACE_ME",
+    "signature": "REPLACE_ME"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Daily Crypto Briefing",
+    "homeUrl": "https://your-app.vercel.app",
+    "iconUrl": "https://your-app.vercel.app/icon.png",
+    "imageUrl": "https://your-app.vercel.app/og-image.png",
+    "splashImageUrl": "https://your-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#0E1420",
+    "subtitle": "One crypto question a day",
+    "description": "A daily crypto discussion prompt. Answer, discuss, tip the briefing.",
+    "primaryCategory": "social"
+  }
+}
