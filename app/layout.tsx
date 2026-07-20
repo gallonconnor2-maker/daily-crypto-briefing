@@ -25,14 +25,14 @@ const APP_URL = "https://daily-crypto-briefing.vercel.app/";
 
 const miniAppEmbed = {
   version: "1",
-  imageUrl: `${APP_URL}/og-image.png`,
+  imageUrl: `${APP_URL}/IMG_5032.png`,
   button: {
     title: "Answer today's question",
     action: {
       type: "launch_miniapp",
       name: "Daily Crypto Briefing",
       url: APP_URL,
-      splashImageUrl: `${APP_URL}/splash.png`,
+      splashImageUrl: `${APP_URL}/IMG_5031.png`,
       splashBackgroundColor: "#0E1420",
     },
   },
