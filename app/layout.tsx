@@ -21,7 +21,7 @@ const mono = IBM_Plex_Mono({
 // Developer Tools — the Mini App embed schema evolves, so treat this object
 // as a starting point, not gospel. https://miniapps.farcaster.xyz/docs/specification
 // ---------------------------------------------------------------------------
-const APP_URL = "https://your-app.vercel.app";
+const APP_URL = "https://daily-crypto-briefing.vercel.app/";
 
 const miniAppEmbed = {
   version: "1",
